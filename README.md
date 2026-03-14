@@ -4,8 +4,6 @@
 
 Desarrollado en Python y GTK3, permite organizar colecciones musicales grandes de forma sencilla, incluyendo la edición masiva de álbumes y portadas.
 
-![ArgOS Tag Studio Icon](https://raw.githubusercontent.com/Tavo78ok/ArgOS-Tag-Studio/main/usr/share/icons/hicolor/256x256/apps/argostagstudio.png)
-
 ## ✨ Características
 
 * **Edición Individual y Masiva:** Cambia el artista, álbum y portada de cientos de canciones a la vez.
@@ -18,18 +16,19 @@ Desarrollado en Python y GTK3, permite organizar colecciones musicales grandes d
 
 La forma más sencilla de instalarlo es descargando el paquete `.deb` desde la sección de [Releases](tu-link-de-github-aca/releases).
 
-Una vez descargado, ejecuta en tu terminal:
+-Una vez descargado, ejecuta en tu terminal:
 
 sudo apt update
 sudo apt install ./argostag-studio.deb
 
-Dependencias manuales:
+-Dependencias manuales:
 
 Si decides correr el script directamente (argostag.py), asegúrate de tener instaladas las siguientes librerías:
 
 sudo apt install python3-gi python3-mutagen gir1.2-gtk-3.0
 
 🛠️ Desarrollo
+
 Este proyecto utiliza:
 
 Lenguaje: Python 3
@@ -42,3 +41,6 @@ Motor de Etiquetas: Mutagen
 Tavo - Tavo78ok
 
 Desarrollado con ❤️ para la comunidad de ArgOS.
+
+
+
