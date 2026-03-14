@@ -21,7 +21,7 @@ La forma más sencilla de instalarlo es descargando el paquete `.deb` desde la s
 sudo apt update
 sudo apt install ./argostag-studio.deb
 
--Dependencias manuales:
+## Dependencias manuales:
 
 Si decides correr el script directamente (argostag.py), asegúrate de tener instaladas las siguientes librerías:
 
@@ -29,13 +29,13 @@ sudo apt install python3-gi python3-mutagen gir1.2-gtk-3.0
 
 ## 🛠️ Desarrollo
 
-Este proyecto utiliza:
+## Este proyecto utiliza:
 
-. Lenguaje: Python 3
+- Lenguaje: Python 3
 
-. Interfaz: PyGObject (GTK3)
+- Interfaz: PyGObject (GTK3)
 
-. Motor de Etiquetas: Mutagen
+- Motor de Etiquetas: Mutagen
 
 ## ✒️ Autor
 Tavo - Tavo78ok
