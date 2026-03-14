@@ -31,13 +31,13 @@ sudo apt install python3-gi python3-mutagen gir1.2-gtk-3.0
 
 Este proyecto utiliza:
 
-Lenguaje: Python 3
+.Lenguaje: Python 3
 
-Interfaz: PyGObject (GTK3)
+.Interfaz: PyGObject (GTK3)
 
-Motor de Etiquetas: Mutagen
+.Motor de Etiquetas: Mutagen
 
-✒️ Autor
+##✒️ Autor
 Tavo - Tavo78ok
 
 Desarrollado con ❤️ para la comunidad de ArgOS.
