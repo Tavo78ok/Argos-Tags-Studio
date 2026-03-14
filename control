@@ -1,0 +1,9 @@
+Package: argostag-studio
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, python3-mutagen, gir1.2-gtk-3.0
+Maintainer: Tavo <tavo2026@github.com>
+Description: Editor de etiquetas MP3 masivo para ArgOS.
+ Permite editar titulo, artista, album y portadas en masa.
