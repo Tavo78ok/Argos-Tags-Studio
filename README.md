@@ -25,7 +25,7 @@ sudo apt install ./argostag-studio.deb
 
 Si decides correr el script directamente (argostag.py), asegúrate de tener instaladas las siguientes librerías:
 
-sudo apt install python3-gi, python3-mutagen, gir1.2-gtk-3.0
+sudo apt install python3-gi, python3-mutagen, gir1.2-gtk-4.0
 
 ## 🛠️ Desarrollo
 
@@ -33,7 +33,7 @@ sudo apt install python3-gi, python3-mutagen, gir1.2-gtk-3.0
 
 - Lenguaje: Python 3
 
-- Interfaz: PyGObject (GTK3)
+- Interfaz: PyGObject (GTK4)
 
 - Motor de Etiquetas: Mutagen
 
