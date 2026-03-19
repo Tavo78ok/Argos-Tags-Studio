@@ -42,6 +42,7 @@ Tavo - Tavo78ok
 
 Desarrollado con ❤️ para la comunidad de ArgOS.
 
+<img width="1440" height="900" alt="Captura de pantalla_2026-03-19_04-27-30" src="https://github.com/user-attachments/assets/9e0c25ff-5c06-427e-80a3-f7d70e5e10d8" />
 
 
 
